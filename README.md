@@ -10,6 +10,7 @@ This is a list
 * Item3
 
 **This is bold text**
+
 *This is italic text*
 
 
