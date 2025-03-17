@@ -14,7 +14,8 @@ The purpose of this report was to train a mode using a dataset from the Centre f
 
 What were the Results?
 
-The data were imbalanced so SMOTE & Balanced Random Forest Classifier were used to improve recall scores. Balanced Random Forest yielded a recall of 0.79, and a receiver operating characteristics area under the curve of 0.83. While the 0.83 value shows a good predictive ability, the model is not recommended for use in clinical setting. 
+The data were imbalanced so Synthetic Minority Over-Sampling Technique (SMOTE) & Balanced Random Forest (BRF) Classifier were used to improve recall scores. The SMOTE technique generates synthetic data points (instead of duplicating existing ones). The technique identifies the k-nearest neighbours (KNN) of the minority class and creates new samples along the original line segments. This technique prevents overfitting and balances the dataset before training. The BRF randomly undersamples the majority class, so that the model is trained on a balanced subset (equal samples are used from each of the majority and minority classes).  
+Balanced Random Forest yielded a recall of 0.79, and a receiver operating characteristics area under the curve of 0.83. While the 0.83 value shows a good predictive ability, the model is not recommended for use in clinical setting. 
 
 
 What does the Reader gain?
