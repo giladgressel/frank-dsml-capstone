@@ -3,10 +3,10 @@ DSML Capstone: Heart Disease Prediction
 ![Heart Giphy](https://github.com/user-attachments/assets/9ec55a36-5020-4297-b900-e7176bfe13d1)
  
 Background
-Cardiovascular diseases are the primary cause of death throughout the world (approximately 20.5 million deaths), & carry large health care costs, with cost estimates over $400B for the period of 2018-2019. While preventive and medical interventions are effective in reducing cardiovascular disease, screening to diagnose heart disease before it becomes clinically apparent can reduce both the medical and economic burden. An ML predictive model would be instrumental as an early warning system against heart disease, the world’s number one killer.
+- Cardiovascular diseases are the primary cause of death throughout the world (approximately 20.5 million deaths), & carry large health care costs, with cost estimates over $400B for the period of 2018-2019. While preventive and medical interventions are effective in reducing cardiovascular disease, screening to diagnose heart disease before it becomes clinically apparent can reduce both the medical and economic burden. An ML predictive model would be instrumental as an early warning system against heart disease, the world’s number one killer.
 
 Project Overview
-This capstone project focuses on building a robust predictive model to assess the likelihood of heart disease in patients. Leveraging a large and imbalanced dataset, various machine learning techniques were employed to improve prediction accuracy. The project involved extensive data preprocessing, feature engineering, and model evaluation to enhance performance.
+- This capstone project focuses on building a robust predictive model to assess the likelihood of heart disease in patients. Leveraging a large and imbalanced dataset, various machine learning techniques were employed to improve prediction accuracy. The project involved extensive data preprocessing, feature engineering, and model evaluation to enhance performance.
 
 Data Science Methodology
 1. Data Collection & Preprocessing (Book1, Book2)
